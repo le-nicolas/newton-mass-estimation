@@ -1,4 +1,4 @@
-# ML_Newton
+# newton-mass-estimation
 
 Estimate mass from noisy force and acceleration measurements using Newton's second law:
 
