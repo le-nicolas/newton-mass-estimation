@@ -6,6 +6,10 @@ Estimate mass from noisy force and acceleration measurements using Newton's seco
 
 This project simulates data, fits mass with two methods (closed-form least squares and numerical optimization), reports quality metrics, and visualizes the result.
 
+## Sample result
+
+![Sample mass estimation plot](sample-result.png)
+
 ## Why this project
 
 The original script demonstrated the idea quickly. This version makes it reproducible, testable, and easier to run with different settings.
@@ -25,6 +29,7 @@ The original script demonstrated the idea quickly. This version makes it reprodu
 
 ```text
 ML_Newton/
+|- sample-result.png
 |- main.py
 |- tests/
 |  |- test_main.py
